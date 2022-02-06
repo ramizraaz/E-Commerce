@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body {
+    font-family: 'Courgette', cursive;
+    margin: 0;
+    font-size: 2rem;
+}
+
+span {
+    color: crimson;
+}

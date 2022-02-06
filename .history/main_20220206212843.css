@@ -44,15 +44,9 @@ a {
 
 .mid {
     display: flex;
-    height: 100vh;
 }
 
-.mid-img {
-    width: 40%;
-}
-
-.mid-con {
-    width: 60%;
-    padding: 0px 20px 0px 10px;
-    background: linear-gradient(to right, rgb(255, 255, 255), rgba(10, 206, 212, 0.884));
+.mid .container {
+    padding: 0px 20px 0px 0px;
+    background-image: url(./images/mid-bg.jpg);
 }

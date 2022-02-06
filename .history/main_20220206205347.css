@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body {
+    font-family: 'Courgette', cursive;
+    margin: 0;
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+span {
+    color: crimson;
+}
+
+img {
+    width: 800px;
+}
+
+a {
+    text-decoration: none;
+    border: 2px solid #f104e6;
+    border-radius: 5px;
+}
+
+.top {
+    display: flex;
+    ;
+}
+
+.container {
+    width: 50%;
+    padding-left: 20px;
+}

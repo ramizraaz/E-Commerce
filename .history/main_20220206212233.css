@@ -23,18 +23,17 @@ img {
 
 a {
     text-decoration: none;
-    border: 2px solid #f10404;
+    border: 2px solid #f104e6;
     border-radius: 10px;
     font-size: 20px;
     margin-left: 50px;
-    background-color: #f104e6;
-    color: rgb(44, 44, 41);
+    background-color: rgba(243, 7, 7, 0.575);
+    color: rgb(101, 2, 167);
 }
 
 .top {
     display: flex;
     background-color: #93e60fe3;
-    height: 100vh;
 }
 
 .container {
@@ -44,15 +43,8 @@ a {
 
 .mid {
     display: flex;
-    height: 100vh;
 }
 
-.mid-img {
-    width: 40%;
-}
-
-.mid-con {
-    width: 60%;
-    padding: 0px 20px 0px 10px;
-    background: linear-gradient(to right, rgb(255, 255, 255), rgba(10, 206, 212, 0.884));
+.mid .container {
+    padding: 0px 20px 0px 0px;
 }
